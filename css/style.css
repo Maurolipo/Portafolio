@@ -67,11 +67,11 @@ section h1 {
   font-size: 3.5rem;
 }
 
-nav ul li a img:hover{
-    transform: scale(1.2);
+nav ul li a img:hover {
+  transform: scale(1.2);
 }
 
-nav img:hover{
+nav img:hover {
   transform: scale(1.2);
   transform: rotateZ(-5deg);
   transition: 0.2s;
